@@ -76,5 +76,4 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_notable: yes
-          plugin_notable_repositories: yes
           plugin_discussions: yes
